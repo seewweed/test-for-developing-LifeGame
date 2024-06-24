@@ -1,2 +1,2 @@
-# test-for-developing-website
+# test-for-developing-LifeGame
 test
